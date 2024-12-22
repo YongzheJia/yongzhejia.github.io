@@ -14,18 +14,27 @@ My research mainly focuses on Federated Learning and Edge Computing.
 I am very fortunate to be advised by Prof. Wanchun Dou from the School of Computer Science and Technology, Nanjing University.
 During my PhD, I was also fortunate to be advised by Assoc. Prof. Xuyun Zhang at Macquarie University.
 
+Selected publications can be found in my [Publications page](/publications/). 
 More information can be found in my [CV page](/cv/).
 
 Feel free to connect with me via [Email](mailto:jiayz@smail.nju.edu.cn) / [Wechat](../images/WeChat-QRcode.JPG).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[//]: # (Publications)
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.publications reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks reversed %})
+
+[//]: # (    {% include archive-single-talk-cv.html  %})
+
+[//]: # (  {% endfor %}</ul>)
