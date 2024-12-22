@@ -3,10 +3,11 @@ title: "FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local P
 collection: publications
 category: manuscripts
 permalink: 'https://ojs.aaai.org/index.php/AAAI/article/view/29181'
-citation: 'Yongzhe Jia, Xuyun Zhang, Amin Beheshti, Wanchun Dou'
+excerpt: 'Yongzhe Jia, Xuyun Zhang, Amin Beheshti, Wanchun Dou.'
 date: 2024-09-26
-venue: '<i>Proceedings of the AAAI Conference on Artificial Intelligence<i>'
+venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
 
+[//]: # (citation: 'Yongzhe Jia, Xuyun Zhang, Amin Beheshti, Wanchun Dou')
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides1.pdf')
 [//]: # (paperurl: 'http://academicpages.github.io/files/paper1.pdf')
