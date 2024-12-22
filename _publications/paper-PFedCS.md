@@ -2,11 +2,14 @@
 title: "PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration among Similar Classifiers"
 collection: publications
 category: conferences
-link: 'https://openreview.net/forum?id=BLudsXvNET'
+
 excerpt: 'Siyuan Wu, <strong>Yongzhe Jia</strong>, Bowen Liu, Haolong Xiang, Xiaolong Xu, Wanchun Dou*.'
 date: 2025-03-24
 venue: 'The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)'
 
+Online resources will be available soon.
+
+[//]: # (link: 'https://openreview.net/forum?id=BLudsXvNET')
 [//]: # (citation: 'Yongzhe Jia, Xuyun Zhang, Amin Beheshti, Wanchun Dou')
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides1.pdf')
