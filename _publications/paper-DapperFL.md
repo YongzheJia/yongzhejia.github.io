@@ -2,7 +2,7 @@
 title: "DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices"
 collection: publications
 category: conferences
-permalink: 'https://arxiv.org/abs/2412.05823'
+link: 'https://arxiv.org/abs/2412.05823'
 excerpt: '<strong>Yongzhe Jia</strong>, Xuyun Zhang, Hongsheng Hu, Kim-Kwang Raymond Choo, Lianyong Qi, Xiaolong Xu*, Amin Beheshti, Wanchun Dou.'
 date: 2024-09-26
 venue: 'The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS). <strong>Oral Accepted</strong>'

@@ -2,7 +2,7 @@
 title: "Efficient federated learning with adaptive channel pruning for edge devices"
 collection: publications
 category: conferences
-permalink: 'https://ieeexplore.ieee.org/abstract/document/10189584/'
+link: 'https://ieeexplore.ieee.org/abstract/document/10189584/'
 excerpt: '<strong>Yongzhe Jia</strong>, Xuyun Zhang, Bowen Liu, Wanchun Dou*.'
 date: 2022-12-15
 venue: '2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta)'

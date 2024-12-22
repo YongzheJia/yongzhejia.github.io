@@ -2,7 +2,7 @@
 title: "Model Pruning-enabled Federated Split Learning for Resource-constrained Devices in Artificial Intelligence Empowered Edge Computing Environment"
 collection: publications
 category: manuscripts
-permalink: 'https://dl.acm.org/doi/abs/10.1145/3687478'
+link: 'https://dl.acm.org/doi/abs/10.1145/3687478'
 excerpt: '<strong>Yongzhe Jia</strong>, Bowen Liu, Xuyun Zhang, Fei Dai, Arif Khan, Lianyong Qi, Wanchun Dou*.'
 date: 2024-07-26
 venue: 'ACM Transactions on Sensor Networks (TOSN)'

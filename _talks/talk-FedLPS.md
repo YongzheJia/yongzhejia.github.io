@@ -2,7 +2,7 @@
 title: "FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing"
 collection: talks
 type: "Online conference presentation"
-permalink: 'https://doi.org/10.48448/f7re-py89'
+link: 'https://doi.org/10.48448/f7re-py89'
 venue: "The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)"
 date: 2024-02-23
 location: "Vancouver, Canada"

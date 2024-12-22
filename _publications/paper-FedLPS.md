@@ -2,7 +2,7 @@
 title: "FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing"
 collection: publications
 category: conferences
-permalink: 'https://ojs.aaai.org/index.php/AAAI/article/view/29181'
+link: 'https://ojs.aaai.org/index.php/AAAI/article/view/29181'
 excerpt: '<strong>Yongzhe Jia</strong>, Xuyun Zhang, Amin Beheshti, Wanchun Dou*.'
 date: 2024-03-24
 venue: 'The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'

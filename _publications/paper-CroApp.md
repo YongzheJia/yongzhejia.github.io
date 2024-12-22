@@ -2,7 +2,7 @@
 title: "CroApp: A CNN-based resource optimization approach in edge computing environment"
 collection: publications
 category: manuscripts
-permalink: 'https://ieeexplore.ieee.org/abstract/document/9721644/'
+link: 'https://ieeexplore.ieee.org/abstract/document/9721644/'
 excerpt: '<strong>Yongzhe Jia</strong>, Bowen Liu, Wanchun Dou, Xiaolong Xu, Xiaokang Zhou*, Lianyong Qi, Zheng Yan*.'
 date: 2022-02-25
 venue: 'IEEE Transactions on Industrial Informatics (TII), <strong>IF=11.7</strong>'
