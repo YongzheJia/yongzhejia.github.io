@@ -31,6 +31,11 @@ Honors
 * 2024: Outstanding Doctoral Graduate Student, Nanjing University
 * 2022: Outstanding Doctoral Graduate Student, Nanjing University
 
+Software
+======
+* DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices. [[Github](https://github.com/YongzheJia/DapperFL)]
+* FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing. [[Github](https://github.com/YongzheJia/FedLPS)]
+
 Service and leadership
 ======
 * ICML 2025, Reviewer
@@ -48,11 +53,6 @@ Service and leadership
 * DSAA 2023, PC member
 * UIC 2022, Reviewer
 * SmartCity 2021, Reviewer
-
-Software
-======
-* DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices. [[Github](https://github.com/YongzheJia/DapperFL)]
-* FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing. [[Github](https://github.com/YongzheJia/FedLPS)]
 
 Teaching
 ======
