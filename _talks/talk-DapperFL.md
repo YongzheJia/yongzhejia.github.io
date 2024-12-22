@@ -1,8 +1,8 @@
 ---
 title: "DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+type: "Oral presentation"
+permalink: 'https://neurips.cc/virtual/2024/session/98080'
 venue: "The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)"
 date: 2024-12-13
 location: "Vancouver, Canada"
