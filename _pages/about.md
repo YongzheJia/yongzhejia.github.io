@@ -15,3 +15,15 @@ I am very fortunate to be advised by Prof. Wanchun Dou from the School of Comput
 During my PhD, I was also fortunate to be advised by Assoc. Prof. Xuyun Zhang at Macquarie University.
 
 Feel free to connect with me via [Email](mailto:jiayz@smail.nju.edu.cn) / [Wechat](../images/WeChat-QRcode.JPG).
+
+CV
+======
+  <ul>{% for post in site.cv reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
