@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+
+[//]: # (title: "CV")
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +12,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021 – present: Ph.D. from School of Computer Science and Technology, Nanjing University, Nanjing, China
+* 2017 – 2020: M.S. from School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China
+* 2013 – 2017: B.S. from School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024: National Scholarship, Nanjing University
+* 2024: Academic scholarships, Nanjing University
+* 2023: Academic scholarships, Nanjing University
+* 2022: Graduate Student Excellence Scholarship, Nanjing University
+* 2022: Academic scholarships, Nanjing University
+* 2021: Outstanding Doctoral Student Scholarship, HPI Research Institute, Germany
+* 2021: Academic scholarships, Nanjing University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors
+======
+* 2024: Outstanding Doctoral Graduate Student, Nanjing University
+* 2022: Outstanding Doctoral Graduate Student, Nanjing University
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ICML 2025, Reviewer
+* ICLR 2025, Reviewer
+* WWW 2025, PC member
+* AISTATS 2025, Reviewer
+* NeurIPS 2024, Reviewer
+* AAAI 2024, Reviewer
+* ACM MM 2024, Reviewer
+* TMC 2024, Reviewer
+* ADMA 2024, Reviewer
+* ISPA 2024, Reviewer
+* ADMA 2023, Reviewer
+* ICPADS 2023, Reviewer
+* DSAA 2023, PC member
+* UIC 2022, Reviewer
+* SmartCity 2021, Reviewer
+
+Software
+======
+* DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices. [[Github](https://github.com/YongzheJia/DapperFL)]
+* FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing. [[Github](https://github.com/YongzheJia/FedLPS)]
+
+Teaching
+======
+* 2022: Teaching Assistant for "Data and Computing", School of Computer Science and Technology, Nanjing University.
+
