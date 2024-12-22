@@ -1,11 +1,11 @@
 ---
-title: "FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing"
+title: "PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration among Similar Classifiers"
 collection: publications
 category: conferences
-permalink: 'https://ojs.aaai.org/index.php/AAAI/article/view/29181'
-excerpt: '<strong>Yongzhe Jia</strong>, Xuyun Zhang, Amin Beheshti, Wanchun Dou*.'
-date: 2024-03-24
-venue: 'The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'
+permalink: 'https://openreview.net/forum?id=BLudsXvNET'
+excerpt: 'Siyuan Wu, <strong>Yongzhe Jia</strong>, Bowen Liu, Haolong Xiang, Xiaolong Xu, Wanchun Dou*.'
+date: 2025-03-24
+venue: 'The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)'
 
 [//]: # (citation: 'Yongzhe Jia, Xuyun Zhang, Amin Beheshti, Wanchun Dou')
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')

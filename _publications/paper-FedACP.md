@@ -1,11 +1,11 @@
 ---
-title: "FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing"
+title: "Efficient federated learning with adaptive channel pruning for edge devices"
 collection: publications
 category: conferences
-permalink: 'https://ojs.aaai.org/index.php/AAAI/article/view/29181'
-excerpt: '<strong>Yongzhe Jia</strong>, Xuyun Zhang, Amin Beheshti, Wanchun Dou*.'
-date: 2024-03-24
-venue: 'The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'
+permalink: 'https://ieeexplore.ieee.org/abstract/document/10189584/'
+excerpt: '<strong>Yongzhe Jia</strong>, Xuyun Zhang, Bowen Liu, Wanchun Dou*.'
+date: 2022-12-15
+venue: '2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta)'
 
 [//]: # (citation: 'Yongzhe Jia, Xuyun Zhang, Amin Beheshti, Wanchun Dou')
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
