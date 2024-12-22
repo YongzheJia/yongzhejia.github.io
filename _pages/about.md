@@ -18,23 +18,3 @@ Selected publications can be found in my [Publications page](/publications/).
 More information can be found in my [CV page](/cv/).
 
 Feel free to connect with me via [Email](mailto:jiayz@smail.nju.edu.cn) / [Wechat](../images/WeChat-QRcode.JPG).
-
-[//]: # (Publications)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.publications reversed %})
-
-[//]: # (    {% include archive-single-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (Talks)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.talks reversed %})
-
-[//]: # (    {% include archive-single-talk-cv.html  %})
-
-[//]: # (  {% endfor %}</ul>)
