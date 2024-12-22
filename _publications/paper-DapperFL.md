@@ -6,11 +6,11 @@ permalink: 'https://arxiv.org/abs/2412.05823'
 
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
 
-citation: 'Yongzhe Jia, Xuyun Zhang, Hongsheng Hu, Kim-Kwang Raymond Choo, Lianyong Qi, Xiaolong Xu, Amin Beheshti, Wanchun Dou. &quot;DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices.&quot <i>The Thirty-eighth Annual Conference on Neural Information Processing Systems.<i> 2024'
+citation: '**Yongzhe Jia**, Xuyun Zhang, Hongsheng Hu, Kim-Kwang Raymond Choo, Lianyong Qi, Xiaolong Xu*, Amin Beheshti, Wanchun Dou. &quot;DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices.&quot <i>The Thirty-eighth Annual Conference on Neural Information Processing Systems.<i> 2024'
 
-[//]: # (date: 2024-09-26)
+date: 2024-09-26
 
-[//]: # (venue: 'NeurIPS')
+venue: 'The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides1.pdf')
 
