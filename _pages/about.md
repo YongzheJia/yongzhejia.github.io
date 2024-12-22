@@ -17,4 +17,4 @@ During my PhD, I was also fortunate to be advised by Assoc. Prof. Xuyun Zhang at
 Selected publications can be found in my [Publications page](/publications/). 
 More information can be found in my [CV page](/cv/).
 
-Feel free to connect with me via [Email](mailto:jiayz@smail.nju.edu.cn) / [Wechat](../images/WeChat-QRcode.JPG).
+Feel free to connect with me via [Email](mailto:jiayz@smail.nju.edu.cn) / [WeChat](../images/WeChat-QRcode.JPG).
